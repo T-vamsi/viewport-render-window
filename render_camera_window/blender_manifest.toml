@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "render_camera_window"
+version = "1.0.0"
+name = "Render Camera Window"
+tagline = "One-click dedicated render viewport window"
+maintainer = "Your Name <you@example.com>"
+type = "add-on"
+
+tags = ["3D View", "Render", "Camera"]
+
+blender_version_min = "4.0.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+[permissions]
+# No file/network/clipboard access required.
