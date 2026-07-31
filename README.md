@@ -100,8 +100,8 @@ render_camera_window/
 ├── operators.py
 ├── gizmo.py
 ├── utils.py
-├── preferences.py        # Optional
-└── blender_manifest.toml # Optional
+├── preferences.py        
+└── blender_manifest.toml 
 ```
 
 ---
