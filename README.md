@@ -106,20 +106,6 @@ render_camera_window/
 
 ---
 
-## Roadmap
-
-* [x] Modular addon structure
-* [x] Render window operator
-* [ ] Viewport gizmo
-* [ ] Window reuse
-* [ ] Camera synchronization
-* [ ] Preferences panel
-* [ ] Multi-monitor support
-* [ ] Blender Extension package
-* [ ] Documentation improvements
-* [ ] Example screenshots and GIFs
-
----
 
 ## Requirements
 
